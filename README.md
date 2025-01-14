@@ -1,39 +1,16 @@
-Kanban Board
+# Kanban Board
 
-A simple, interactive Kanban board for task management built with React and react-beautiful-dnd. This project demonstrates features like drag-and-drop functionality, create/delete functionality, and local storage for persistent data.
+A drag-and-drop Kanban Board to manage tasks efficiently, built with React and React Beautiful DnD. This project supports task creation, task reordering, and column deletion and persistent state using localStorage.
 
-Setup Instructions
+## Features
+- Feature 1
+- Feature 2
+- Feature 3
 
-Prerequisites
+---
 
-Node.js (v14 or higher recommended)
+## Setup Instructions
 
-npm or yarn (for package management)
-
-Steps to Set Up the Project
-
-Clone the repository:
-
-git clone <repository-url>
-cd <project-folder>
-
-Install dependencies:
-
-npm install
-
-or, if using yarn:
-
-yarn install
-
-Start the development server:
-
-npm start
-
-or, if using yarn:
-
-yarn start
-
-Open your browser and navigate to:
-
-http://localhost:3000
-
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo.git
