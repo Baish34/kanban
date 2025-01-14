@@ -13,4 +13,4 @@ A drag-and-drop Kanban Board to manage tasks efficiently, built with React and R
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/Baish34/kanban.git
